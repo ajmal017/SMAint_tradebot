@@ -4,4 +4,4 @@ ib_insync  # use pip from environment
 ta-lib  # NOTE: for windows use the appropriate .whl file from https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib
 jupyterlab
 jupyter
-numpy==1.19.1
+numpy
