@@ -5,3 +5,4 @@ ta-lib  # NOTE: for windows use the appropriate .whl file from https://www.lfd.u
 jupyterlab
 jupyter
 numpy
+python-dotenv
